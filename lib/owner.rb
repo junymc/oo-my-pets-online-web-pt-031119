@@ -72,11 +72,3 @@ class Owner
   end
 
 end
-
-
-class Dogs
-  class all
-
-  end
-end
-  
